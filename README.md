@@ -6,7 +6,7 @@ https://user-images.githubusercontent.com/82409174/132305565-a9485b3c-cf2e-4066-
 
 
 # Explanation
-a si
+a simple todo app for daily planning.
 
 I would appreciate if you give star to this project.
 The project will progress over the time.
